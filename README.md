@@ -1,2 +1,2 @@
 # StopWatch
-Basic stopwatch 
+Basic stopwatch with basic functions as start, stop and restart.
